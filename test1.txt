@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is D04F-640C
+
+ Directory of C:\Users\lakshya.bhardwaj\OneDrive - Incedo Technology Solutions Ltd\Desktop\git folder
+
+01-09-2021  08:31    <DIR>          .
+01-09-2021  08:31    <DIR>          ..
+01-09-2021  08:31                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  190,496,444,416 bytes free
